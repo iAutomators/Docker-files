@@ -1,4 +1,0 @@
-FROM ubuntu:18.04
-MAINTAINER mayankshekharsingh@gmail.com
-
-RUN apt-get update -y
